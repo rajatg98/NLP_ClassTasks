@@ -1,2 +1,4 @@
 # NLP_ClassTasks
-Natural Language Processing Code Snippets
+
+17BCB0090 - Rajat Gupta
+Natural Language Processing - class code snippets
